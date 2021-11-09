@@ -12,6 +12,6 @@ function showVerticalMessage(str) {
           return newStr;
         }      
     }
-    return newStr;
+    return console.log(newStr);
   };
-  showVerticalMessage('Марафонdddddd')
+  showVerticalMessage('Марафонdddddd')  
